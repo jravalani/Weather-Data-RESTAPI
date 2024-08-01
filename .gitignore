@@ -2,3 +2,4 @@
 .idea
 student_exercise.py
 templates/student_exercise_home.html
+dictionary.csv
